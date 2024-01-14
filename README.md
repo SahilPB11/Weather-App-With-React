@@ -59,6 +59,9 @@ React Weather App is a React-based application that provides users with real-tim
 - 🗺️ Geolocation:
   - Automatically detects the user's current location and displays the weather for that area.
 
+## Screen Shot Of Poject
+![Screenshot 2024-01-14 121236](https://github.com/SahilPB11/Weather-App-With-React/assets/132371638/eb8ce7c6-80f0-42d0-bcf5-95da290de7d1)
+
 ## Technologies Used
 
 - ⚛️ React.js:
